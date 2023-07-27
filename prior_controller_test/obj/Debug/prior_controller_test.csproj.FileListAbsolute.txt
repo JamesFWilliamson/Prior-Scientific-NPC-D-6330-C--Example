@@ -1,0 +1,8 @@
+C:\Github\prior_3_axis_pzt_test\wpf_prior_dll_test\prior_controller_test\bin\Debug\prior_controller_test.exe.config
+C:\Github\prior_3_axis_pzt_test\wpf_prior_dll_test\prior_controller_test\bin\Debug\prior_controller_test.exe
+C:\Github\prior_3_axis_pzt_test\wpf_prior_dll_test\prior_controller_test\bin\Debug\prior_controller_test.pdb
+C:\Github\prior_3_axis_pzt_test\wpf_prior_dll_test\prior_controller_test\obj\Debug\prior_controller_test.csproj.AssemblyReference.cache
+C:\Github\prior_3_axis_pzt_test\wpf_prior_dll_test\prior_controller_test\obj\Debug\prior_controller_test.csproj.SuggestedBindingRedirects.cache
+C:\Github\prior_3_axis_pzt_test\wpf_prior_dll_test\prior_controller_test\obj\Debug\prior_controller_test.csproj.CoreCompileInputs.cache
+C:\Github\prior_3_axis_pzt_test\wpf_prior_dll_test\prior_controller_test\obj\Debug\prior_controller_test.exe
+C:\Github\prior_3_axis_pzt_test\wpf_prior_dll_test\prior_controller_test\obj\Debug\prior_controller_test.pdb
